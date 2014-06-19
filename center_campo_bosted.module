@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Center-campo Bosted feature.
+ */
+
+include_once 'center_campo_bosted.features.inc';
